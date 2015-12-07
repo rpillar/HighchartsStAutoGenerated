@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAllowPointSelect" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testAnimation" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testBorderColor" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testBorderWidth" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testCenter" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testColors" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testCursor" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testEnableMouseTracking" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testEndAngle" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testId" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testIgnoreHiddenPoint" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testInnerSize" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testLinkedTo" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testMinSize" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testSelected" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testShadow" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testShowInLegend" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testSize" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testSlicedOffset" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testStartAngle" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testStates" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testStickyTracking" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testTooltip" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testVisible" : "MarianoMartinezPeck 12/31/2013 13:01" } }

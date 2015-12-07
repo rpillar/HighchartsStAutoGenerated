@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAllowPointSelect" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testAnimation" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testColor" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testCropThreshold" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testCursor" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testDashStyle" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testEnableMouseTracking" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testId" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testLineWidth" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testLinkedTo" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testNegativeColor" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testPointInterval" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testPointStart" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testSelected" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testShadow" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testShowCheckbox" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testShowInLegend" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testStates" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testStickyTracking" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testThreshold" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testTooltip" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testTurboThreshold" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"testVisible" : "MarianoMartinezPeck 12/31/2013 13:01" } }

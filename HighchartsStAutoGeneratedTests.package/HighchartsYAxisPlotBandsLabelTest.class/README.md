@@ -1,0 +1,1 @@
+A HighchartsYAxisPlotBandsLabelTest is a test class for testing the behavior of HighchartsYAxisPlotBandsLabel

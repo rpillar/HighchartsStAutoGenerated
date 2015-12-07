@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testBoxplot" : "MarianoMartinezPeck 12/31/2013 12:59",
+		"testBubble" : "MarianoMartinezPeck 12/31/2013 12:59",
+		"testColumnrange" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testErrorbar" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testFunnel" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testGauge" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"testWaterfall" : "MarianoMartinezPeck 12/31/2013 13:02" } }
