@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"area" : "MarianoMartinezPeck 12/31/2013 12:58",
+		"arearange" : "MarianoMartinezPeck 12/31/2013 12:58",
+		"areaspline" : "MarianoMartinezPeck 12/31/2013 12:58",
+		"areasplinerange" : "MarianoMartinezPeck 12/31/2013 12:59",
+		"bar" : "MarianoMartinezPeck 12/31/2013 12:59",
+		"boxplot:" : "MarianoMartinezPeck 12/31/2013 12:59",
+		"bubble:" : "MarianoMartinezPeck 12/31/2013 12:59",
+		"column" : "MarianoMartinezPeck 12/31/2013 12:59",
+		"columnrange:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"errorbar:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"funnel:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"gauge:" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"line" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"pie" : "MarianoMartinezPeck 12/31/2013 13:00",
+		"scatter" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"series" : "MarianoMartinezPeck 12/31/2013 13:01",
+		"spline" : "MarianoMartinezPeck 12/31/2013 13:02",
+		"waterfall:" : "MarianoMartinezPeck 12/31/2013 13:02" } }
