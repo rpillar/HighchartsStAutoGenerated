@@ -4,8 +4,8 @@ testY
 	| component stream |
 
 	component := HighchartsSeriesData new.
-	component y: 'test'.
+	component y: 1.
 	stream := WriteStream on: String new.
 	component javascriptContentOn: stream.
 
-	self assert: stream contents = '{"y":"test"}'
+	self assert: stream contents = '{"y":1}'
